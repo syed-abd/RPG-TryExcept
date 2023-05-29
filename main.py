@@ -6,7 +6,9 @@
 # Coders Name: Abullah Hashmi                                                      
 # Version: 001   
 ##############################################################################
-''' This code allows character to access the inventory with items in it '''
+''' This code allows character to access the inventory with items in it 
+kkko
+okloo'''
 
 import tiles
 from inventory import *
